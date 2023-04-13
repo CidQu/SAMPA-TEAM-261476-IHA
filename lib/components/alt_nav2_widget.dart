@@ -65,7 +65,7 @@ class _AltNav2WidgetState extends State<AltNav2Widget> {
           BoxShadow(
             blurRadius: 0.0,
             color: FlutterFlowTheme.of(context).lineColor,
-            offset: Offset(2.0, 0.0),
+            offset: Offset(1.0, 0.0),
           )
         ],
         borderRadius: BorderRadius.circular(0.0),
