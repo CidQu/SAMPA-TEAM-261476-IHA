@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "294189547747",
+    "project_id": "istanbul-anadolu",
+    "storage_bucket": "istanbul-anadolu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294189547747:android:defd627438c3259b4245d6",
+        "android_client_info": {
+          "package_name": "com.cidqu.bahriye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294189547747-ro445l3f6d5epfg7n7q7squm0d2tl80q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cidqu.bahriye",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "294189547747-6qq23llslna32vo740hihvb705l0fsqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVMFZhpXNElddlIWwxegDlzTb3rBN1Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294189547747-6qq23llslna32vo740hihvb705l0fsqt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294189547747-ckna9hqu84ugvmhpbp4onpcu682k8m3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cidqu.patiliev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
