@@ -15,8 +15,8 @@ class RaspberryCall {
   }) {
     return ApiManager.instance.makeApiCall(
       callName: 'raspberry',
-      apiUrl: 'https://cidqu.net/raspberry',
-      callType: ApiCallType.GET,
+      apiUrl: 'https://10.4.101.1',
+      callType: ApiCallType.POST,
       headers: {},
       params: {},
       returnBody: true,
